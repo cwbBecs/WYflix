@@ -22,6 +22,6 @@ section{
 }
 div{
     display: block;
-    border-right: solid green 5px;
+    border-right: solid rgb(15, 17, 14) 5px;
     padding-left: 2%;
 }
