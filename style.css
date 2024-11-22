@@ -17,8 +17,9 @@ section{
     padding-top: 30px;
     display:flex;
    justify-content:center;
-   border-right: solid green 5 px;
+
 }
 div{
     display: block;
+    border-right: solid green 5 px;
 }
